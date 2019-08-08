@@ -1,0 +1,114 @@
+
+[06/06/2019 22:35:56] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:36:08] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:36:12]Toronto UDP Server: Reply received from the server is: 
+[06/06/2019 22:36:12]Toronto UDP Server: Reply received from the server is: 
+[06/06/2019 22:36:12] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - TORM123456 2
+
+[06/06/2019 22:36:31]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:36:31]Customer ID : MTLC1234 ,  Event type : conferences ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 22:36:44]Customer ID : MTLC1234 , TORM123456,
+[06/06/2019 22:36:44]Customer ID : MTLC1234 ,  Event type : trade shows ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 22:36:46]Customer ID : MTLC1234 , TORM123456,TORM123456,
+[06/06/2019 22:37:28]Customer ID : MTLC1234 , TORM123456,TORM123456,
+[06/06/2019 22:41:02] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:41:10] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:42:08]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:43:31]Toronto UDP Server: Reply received from the server is: 
+[06/06/2019 22:43:31]Toronto UDP Server: Reply received from the server is: OTWM123456 2, 
+[06/06/2019 22:43:31] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - TORM123456 2, OTWM123456 2
+
+[06/06/2019 22:44:41]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:47:20]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:50:42] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:50:48] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:51:09]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:51:10]Customer ID : MTLC1234 ,  Event type : conferences ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 22:51:50]Customer ID : MTLC1234 , TORM123456,
+[06/06/2019 22:51:51]Customer ID : MTLC1234 ,  Event type : trade shows ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 22:51:55]Customer ID : MTLC1234 , TORM123456,TORM123456,
+[06/06/2019 22:54:03]Customer ID : MTLC1234 , TORM123456,TORM123456,
+[06/06/2019 22:56:57]Customer ID : MTLC1234 , TORM123456,TORM123456,
+[06/06/2019 22:57:35] Manager ID : TORM1234 , Event type : seminars , EventId : TORE123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:58:17]Customer ID : MTLC1234 , TORM123456,TORM123456,
+[06/06/2019 23:02:23] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:02:28] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:02:35] Manager ID : TORM1234 , Event type : seminars , EventId : TORE123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:03:03]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 23:03:41]Toronto UDP Server: Reply received from the server is: 
+[06/06/2019 23:03:41]Toronto UDP Server: Reply received from the server is: OTWM123456 2, 
+[06/06/2019 23:03:41] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - TORM123456 2, OTWM123456 2
+
+[06/06/2019 23:03:58]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 23:04:45] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:04:53] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:05:03] Manager ID : TORM1234 , Event type : seminars , EventId : TORE123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:05:05]Toronto UDP Server: Reply received from the server is: 
+[06/06/2019 23:05:05]Toronto UDP Server: Reply received from the server is: 
+[06/06/2019 23:05:05] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - TORM123456 2
+
+[06/06/2019 23:06:06]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 23:09:02] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:09:07] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:09:17] Manager ID : TORM1234 , Event type : seminars , EventId : TORE123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:09:50]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 23:09:50]Customer ID : MTLC1234 ,  Event type : conferences ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 23:10:02]Customer ID : MTLC1234 , TORM123456,
+[06/06/2019 23:10:02]Customer ID : MTLC1234 ,  Event type : trade shows ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 23:10:25]Customer ID : MTLC1234 , TORM123456,TORM123456,
+[06/06/2019 23:10:30]Customer ID : MTLC1234 , TORM123456,TORM123456,
+[06/06/2019 23:10:57]Toronto UDP Server: Reply received from the server is: 
+[06/06/2019 23:10:57]Toronto UDP Server: Reply received from the server is: 
+[06/06/2019 23:10:57] Manager ID : TORM1234 , Event type : seminars , Action Performed : listEventAvailability , Message : Event list - seminars - TORE123456 2
+
+[06/06/2019 23:11:04]Customer ID : MTLC1234 , TORM123456,TORM123456,
+[06/06/2019 23:12:46]Customer ID : MTLC1234 , TORM123456,TORM123456,
+[06/06/2019 23:13:08] Customer ID :MTLC1234 ,  EventId : TORM123456 ,  Event Type conferences ,  Action Performed : Cancel Event ,  Message : Event has been cancelled
+
+[06/06/2019 23:13:18]Toronto UDP Server: Reply received from the server is: 
+[06/06/2019 23:13:18]Toronto UDP Server: Reply received from the server is: OTWM123456 1, 
+[06/06/2019 23:13:18] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - TORM123456 1, OTWM123456 1
+
+[06/06/2019 23:13:50] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : removeEvent , Message : Event removed successfully
+
+[06/06/2019 23:14:58]Customer ID : MTLC1234 , No Events for this Customer
+[06/06/2019 23:16:20] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:16:44]Customer ID : TORC1234 ,  Event type : conferences ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 23:16:51]Customer ID : TORC1234 ,  Event type : conferences ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has not been Booked
+
+[06/06/2019 23:16:58]Toronto UDP Server: Reply received from the server is: No customer with CustomerId TORC1234
+[06/06/2019 23:16:58]Toronto UDP Server: Reply received from the server is: No customer with CustomerId TORC1234
+[06/06/2019 23:16:58]Customer ID : TORC1234 , TORM123456,
+[06/06/2019 23:18:27] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:18:42]Customer ID : TORC1234 ,  Event type : conferences ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has not been Booked
+
+[06/06/2019 23:19:08] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event already exists , Updating booking capacity from: 0 to: 2
+
+[06/06/2019 23:19:20]Customer ID : TORC1234 ,  Event type : conferences ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 23:20:28] Customer ID :TORC2345 ,  EventId : TORM123456 ,  Event Type conferences ,  Action Performed : Cancel Event   ,  Message : Event can't be cancelled

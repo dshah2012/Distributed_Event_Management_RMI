@@ -1,0 +1,117 @@
+
+[06/06/2019 00:15:22] Event type : x , Action Performed : check_event , Message : You have entered invalid event type
+[06/06/2019 00:16:22] Manager ID : TORM1234 , Event ID : TORA20899 , Action Performed : check_event_id , Message : You have entered invalid event id.
+
+[06/06/2019 00:19:40] Manager ID : TORM1234 , Event type : conferences , EventId : TORA200519 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 00:20:27] Manager ID : TORM1234 , Event type : conferences , EventId : TORA200519 , Action Performed : removeEvent , Message : Event removed successfully
+[06/06/2019 00:20:56] Manager ID : TORM1234 , Event type : conferences , EventId : TORA210519 , Action Performed : removeEvent , Message : Event removed successfully
+[06/06/2019 00:23:41] Manager ID : TORM1234 , Event type : conferences , EventId : TORA200519 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 00:23:58] Manager ID : TORM1234 , Event type : conferences , EventId : TORA200519 , Action Performed : removeEvent , Message : Event removed successfully
+
+[06/06/2019 00:24:13] Manager ID : TORM1234 , Event type : conferences , EventId : TORA200519 , Action Performed : removeEvent , Message : No such event found. Could not removed the event
+
+[06/06/2019 00:27:15] Manager ID : TORM1234 , Event ID : OTWM123 , Action Performed : check_event_id , Message : You have entered invalid event id.
+
+[06/06/2019 00:27:41] Event type : x , Action Performed : check_event , Message : You have entered invalid event type
+
+[06/06/2019 00:33:08] Manager ID : TORM1234 , Event type : conferences , EventId : TORA200919 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 00:33:21] Manager ID : TORM1234 , Event type : trade shows , EventId : TORA200919 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 00:33:26] Manager ID : TORM1234 , Event type : conferences , EventId : TORM200919 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 00:55:48] Manager ID : TORM1234 , Event type : trade shows , EventId : TORA198919 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 00:55:54] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - MTLE100919 3, MTLA100919 4
+
+[06/06/2019 00:57:09] Manager ID : TORM1234 , Event type : trade shows , Action Performed : listEventAvailability , Message : Event list - trade shows - TORA198919 4
+
+[06/06/2019 00:58:23] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - MTLE100919 3, MTLA100919 4
+
+[06/06/2019 00:58:48] Manager ID : TORM1234 , Event type : conferences , EventId : TORA109020 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 00:58:50] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - TORA109020 8, MTLE100919 3, MTLA100919 4
+
+[06/06/2019 22:01:28] Manager ID : TORM1234 , Event ID : TORM1234534535 , Action Performed : check_event_id , Message : You have entered invalid event id.
+
+[06/06/2019 22:01:35] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : No events found
+
+[06/06/2019 22:01:53] Event type : rewrw , Action Performed : check_event , Message : You have entered invalid event type
+
+[06/06/2019 22:02:02] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : removeEvent , Message : No such event found. Could not removed the event
+
+[06/06/2019 22:02:39] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:02:50] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:02:55] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - TORM123456 2
+
+[06/06/2019 22:02:59] Manager ID : TORM1234 , Event type : trade shows , Action Performed : listEventAvailability , Message : Event list - trade shows - TORM123456 2
+
+[06/06/2019 22:11:02] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:11:18] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:15:02] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:15:08] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:16:29] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - TORM123456 1
+
+[06/06/2019 22:16:45] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : removeEvent , Message : Event removed successfully
+
+[06/06/2019 22:17:38] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : No events found
+
+[06/06/2019 22:35:56] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:36:08] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:36:12] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - TORM123456 2
+
+[06/06/2019 22:41:02] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:41:10] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:43:31] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - TORM123456 2, OTWM123456 2
+
+[06/06/2019 22:50:42] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:50:48] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:57:35] Manager ID : TORM1234 , Event type : seminars , EventId : TORE123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:02:23] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:02:28] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:02:35] Manager ID : TORM1234 , Event type : seminars , EventId : TORE123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:03:41] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - TORM123456 2, OTWM123456 2
+
+[06/06/2019 23:04:45] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:04:53] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:05:03] Manager ID : TORM1234 , Event type : seminars , EventId : TORE123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:05:05] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - TORM123456 2
+
+[06/06/2019 23:09:02] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:09:07] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:09:17] Manager ID : TORM1234 , Event type : seminars , EventId : TORE123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:10:57] Manager ID : TORM1234 , Event type : seminars , Action Performed : listEventAvailability , Message : Event list - seminars - TORE123456 2
+
+[06/06/2019 23:13:18] Manager ID : TORM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - TORM123456 1, OTWM123456 1
+
+[06/06/2019 23:13:50] Manager ID : TORM1234 , Event type : trade shows , EventId : TORM123456 , Action Performed : removeEvent , Message : Event removed successfully
+
+[06/06/2019 23:16:20] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:18:27] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:19:08] Manager ID : TORM1234 , Event type : conferences , EventId : TORM123456 , Action Performed : addEvent , Message : Event already exists , Updating booking capacity from: 0 to: 2

@@ -1,0 +1,2 @@
+
+[06/06/2019 01:03:06]Customer ID : TORC1234 ,  Event type : conferences ,  EventId : TORA109020, Action Performed : Book Event  Message : Event has been Booked and updated accordingly

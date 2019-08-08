@@ -1,0 +1,56 @@
+
+[06/06/2019 22:36:31]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:36:44]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:36:46]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:37:16] Manager ID : OTWM1234 , Event type : conferences , EventId : OTWM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:37:28]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:39:20]Ottawa UDP Server: Reply received from the server is: TORM123456 1, 
+[06/06/2019 22:39:20]Ottawa UDP Server: Reply received from the server is: 
+[06/06/2019 22:39:20] Manager ID : OTWM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - OTWM123456 2, TORM123456 1
+
+[06/06/2019 22:41:23] Manager ID : OTWM1234 , Event type : conferences , EventId : OTWM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:41:27]Ottawa UDP Server: Reply received from the server is: TORM123456 2, 
+[06/06/2019 22:41:27]Ottawa UDP Server: Reply received from the server is: 
+[06/06/2019 22:41:27] Manager ID : OTWM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - OTWM123456 2, TORM123456 2
+
+[06/06/2019 22:42:08]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:44:43]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:47:21]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:51:09]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:51:50]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:51:55]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:52:34] Manager ID : OTWM1234 , Event type : conferences , EventId : OTWM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:52:39]Ottawa UDP Server: Reply received from the server is: TORM123456 1, 
+[06/06/2019 22:52:39]Ottawa UDP Server: Reply received from the server is: 
+[06/06/2019 22:52:39] Manager ID : OTWM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - OTWM123456 2, TORM123456 1
+
+[06/06/2019 22:54:03]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 22:55:12]Customer ID : MTLC1234 ,  Event type : conferences ,  EventId : OTWM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 22:56:57]Customer ID : MTLC1234 , OTWM123456,
+[06/06/2019 22:58:17]Customer ID : MTLC1234 , OTWM123456,
+[06/06/2019 23:02:48] Manager ID : OTWM1234 , Event type : conferences , EventId : OTWM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:03:03]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 23:03:03]Number of Booking of Outside Events Reached
+[06/06/2019 23:03:58]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 23:03:58]Number of Booking of Outside Events Reached
+[06/06/2019 23:05:23] Manager ID : OTWM1234 , Event type : conferences , EventId : OTWM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:06:06]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 23:09:31] Manager ID : OTWM1234 , Event type : conferences , EventId : OTWM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:09:50]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 23:10:02]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 23:10:25]Customer ID : MTLC1234 , No customer with CustomerId MTLC1234
+[06/06/2019 23:10:25]Customer ID : MTLC1234 ,  Event type : conferences ,  EventId : OTWM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 23:10:30]Customer ID : MTLC1234 , OTWM123456,
+[06/06/2019 23:11:04]Customer ID : MTLC1234 , OTWM123456,
+[06/06/2019 23:11:04]Number of Booking of Outside Events Reached
+[06/06/2019 23:12:46]Customer ID : MTLC1234 , OTWM123456,
+[06/06/2019 23:14:58]Customer ID : MTLC1234 , OTWM123456,
+[06/06/2019 23:16:58]Customer ID : TORC1234 , No customer with CustomerId TORC1234

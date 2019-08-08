@@ -1,0 +1,18 @@
+
+[06/06/2019 22:37:16] Manager ID : OTWM1234 , Event type : conferences , EventId : OTWM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:39:20] Manager ID : OTWM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - OTWM123456 2, TORM123456 1
+
+[06/06/2019 22:41:23] Manager ID : OTWM1234 , Event type : conferences , EventId : OTWM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:41:27] Manager ID : OTWM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - OTWM123456 2, TORM123456 2
+
+[06/06/2019 22:52:34] Manager ID : OTWM1234 , Event type : conferences , EventId : OTWM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:52:39] Manager ID : OTWM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - OTWM123456 2, TORM123456 1
+
+[06/06/2019 23:02:48] Manager ID : OTWM1234 , Event type : conferences , EventId : OTWM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:05:23] Manager ID : OTWM1234 , Event type : conferences , EventId : OTWM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 23:09:31] Manager ID : OTWM1234 , Event type : conferences , EventId : OTWM123456 , Action Performed : addEvent , Message : Event added successfully

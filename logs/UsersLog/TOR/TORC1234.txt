@@ -1,0 +1,29 @@
+
+[06/06/2019 01:03:06]Customer ID : TORC1234 ,  Event type : conferences ,  EventId : TORA109020, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 22:03:31]Customer ID : TORC1234 ,  Event type : conferences ,  EventId : werwerwer!2323, Action Performed : Book Event  Message : Event has not been Booked
+
+[06/06/2019 22:04:30]Customer ID : TORC1234 ,  Event type : conferences ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 22:05:23]Customer ID : TORC1234 ,  Event type : trade shows ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 22:05:43]Customer ID : TORC1234 , No customer with CustomerId TORC1234
+[06/06/2019 22:05:43]Customer ID : TORC1234 , No customer with CustomerId TORC1234
+[06/06/2019 22:05:43]Customer ID : TORC1234 , TORM123456,TORM123456,
+[06/06/2019 22:11:56]Customer ID : TORC1234 ,  Event type : conferences ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 22:12:04]Customer ID : TORC1234 ,  Event type : trade shows ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 22:12:06]Customer ID : TORC1234 , TOR : No customer with CustomerId TORC1234
+[06/06/2019 22:12:06]Customer ID : TORC1234 , TOR : No customer with CustomerId TORC1234
+[06/06/2019 22:12:06]Customer ID : TORC1234 , TORM123456,TORM123456,TOR : No customer with CustomerId TORC1234TOR : No customer with CustomerId TORC1234
+[06/06/2019 23:16:44]Customer ID : TORC1234 ,  Event type : conferences ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 23:16:51]Customer ID : TORC1234 ,  Event type : conferences ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has not been Booked
+
+[06/06/2019 23:16:58]Customer ID : TORC1234 , No customer with CustomerId TORC1234
+[06/06/2019 23:16:58]Customer ID : TORC1234 , No customer with CustomerId TORC1234
+[06/06/2019 23:16:58]Customer ID : TORC1234 , TORM123456,
+[06/06/2019 23:18:42]Customer ID : TORC1234 ,  Event type : conferences ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has not been Booked
+
+[06/06/2019 23:19:20]Customer ID : TORC1234 ,  Event type : conferences ,  EventId : TORM123456, Action Performed : Book Event  Message : Event has been Booked and updated accordingly

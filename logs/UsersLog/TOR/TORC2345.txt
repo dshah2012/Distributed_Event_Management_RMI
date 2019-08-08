@@ -1,0 +1,2 @@
+
+[06/06/2019 23:20:28] Customer ID :TORC2345 ,  EventId : TORM123456 ,  Event Type conferences ,  Action Performed : Cancel Event   ,  Message : Event can't be cancelled

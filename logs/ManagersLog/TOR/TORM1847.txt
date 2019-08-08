@@ -1,0 +1,14 @@
+
+[06/06/2019 00:44:11] Manager ID : TORM1847 , Event type : trade shows , EventId : TORE100919 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 00:45:53] Event type : TORM1234 , Action Performed : check_event , Message : You have entered invalid event type
+
+[06/06/2019 00:47:52] Manager ID : TORM1847 , Event type : conferences , EventId : TORA100919 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 00:48:08]Customer ID : TORM1847 ,  Event type : conferences ,  EventId : TORA100919, Action Performed : Book Event  Message : Event has been Booked and updated accordingly
+
+[06/06/2019 00:48:14] Manager ID : TORM1847 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - TORA100919 0, 
+
+[06/06/2019 00:48:14] Manager ID : TORM1847 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - MTLE100919 5, 
+
+[06/06/2019 00:48:14] Manager ID : TORM1847 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - MTLE100919 5, MTLA100919 5, 

@@ -1,0 +1,24 @@
+
+[06/06/2019 00:33:48] Manager ID : MTLM1234 , Event type : trade shows , EventId : MTLA100919 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 00:33:58] Manager ID : MTLM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : No events found
+
+[06/06/2019 00:33:58] Manager ID : MTLM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - TORM200919 5, 
+
+[06/06/2019 00:33:58] Manager ID : MTLM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - TORM200919 5, TORA200919 5, 
+
+[06/06/2019 00:33:58] Manager ID : MTLM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : No events found
+
+[06/06/2019 22:19:44] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:19:57] Manager ID : MTLM1234 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - MTLM123456 3
+
+[06/06/2019 22:20:09] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : removeEvent , Message : Event removed successfully
+
+[06/06/2019 22:22:10] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:22:31] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : removeEvent , Message : Event removed successfully
+
+[06/06/2019 22:24:44] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 22:27:25] Manager ID : MTLM1234 , Event type : conferences , EventId : MTLM123456 , Action Performed : removeEvent , Message : Event removed successfully

@@ -1,0 +1,12 @@
+
+[06/06/2019 00:54:51] Manager ID : MTLM4589 , Event type : conferences , EventId : MTLA100919 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 00:54:58] Manager ID : MTLM4589 , Event type : conferences , EventId : MTLE100919 , Action Performed : addEvent , Message : Event added successfully
+
+[06/06/2019 00:55:01] Manager ID : MTLM4589 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - MTLE100919 3, MTLA100919 4
+
+[06/06/2019 00:57:27] Manager ID : MTLM4589 , Event type : trade shows , EventId : TORA190919 , Action Performed : addEvent , Message : You are not authorized to create this event
+
+[06/06/2019 00:57:31] Manager ID : MTLM4589 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - MTLE100919 3, MTLA100919 4
+
+[06/06/2019 00:57:40] Manager ID : MTLM4589 , Event type : conferences , Action Performed : listEventAvailability , Message : Event list - conferences - MTLE100919 3, MTLA100919 4
